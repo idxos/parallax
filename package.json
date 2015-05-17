@@ -35,5 +35,11 @@
     "gulp-jshint": "^1.5.3",
     "gulp-uglify": "^0.2.1",
     "jshint-stylish": "^0.1.5"
+  },
+  "bundleDependencies": [
+    "gulp"
+  ],
+  "dependencies": {
+    "gulp": "^3.8.11"
   }
 }
